@@ -1,4 +1,4 @@
-var host = window.location.origin;
+var host = window.location.origin+ '/';
 
 function addRating() {
     console.log("Get random movie to rate...");
