@@ -3,7 +3,7 @@ main = Blueprint('main', __name__)
  
 import json
 
-# Find Spark
+## Find Spark
 import findspark
 findspark.init()
 
